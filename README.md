@@ -7,5 +7,5 @@
 4. Users can delete tasks.
 
 ## Additional Features :
-Swipe animation for deletion of user task.
+1. Swipe animation for deletion of user task.
 
