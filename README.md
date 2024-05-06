@@ -9,3 +9,5 @@
 ## Additional Features :
 1. Swipe animation for deletion of user task.
 
+## Build Apk 
+Apk is present in directory build/app/outputs/apk/release/app-arm64-v8a-release,apk
